@@ -31,16 +31,6 @@
 
 <hr>
 
-<h1>Mendel est devenu un gros Israelien</h1>
-
-<h2>comment être comme lui:</h2>
-<ol>
-  <li>Ne pas mager de Khallouf</li>
-  <li>Mettre des lunettes de fraicheurs</li>
-  <li>Vivre a Tel Aviv, le reste c'est de la merde</li>
-</ol>
-
-<p>This is my page!Go check me out <a href="https://www.facebook.com/mendel.zalco"> you want more tips to be like me</a></p>
   
 
 
