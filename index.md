@@ -21,7 +21,11 @@
 
 <h3>Texr Styles</h3>
 <p>In this paragraph I am going to <u>underline this</u> , and then this is <strong>very important</strong>, and then this is <em> itallic for effect</em> </p>
- <hr>
+
+<hr>
+
+<h3>Links and Images</h3>
+<p>First, I am going to link to <a href=http://www.qmul.ac.uk/> my website</a></p>
 
 
 
