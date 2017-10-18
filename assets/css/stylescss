@@ -3,3 +3,10 @@
 
 @import "{{site.theme}}";
 
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #ffffff;
+    background-image: linear-gradient(120deg, #7f1599, #c79211);
+}
+
